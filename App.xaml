@@ -1,0 +1,17 @@
+﻿<Application x:Class="StockPilot.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StockPilot"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="AppBackgroundBrush" Color="#111A20"/>
+        <SolidColorBrush x:Key="SurfaceBrush" Color="#18252D"/>
+        <SolidColorBrush x:Key="TextPrimaryBrush" Color="#F2F7F5"/>
+        <SolidColorBrush x:Key="TextMutedBrush" Color="#9EB0B3"/>
+        <SolidColorBrush x:Key="BorderBrush" Color="#2A3A40"/>
+        <SolidColorBrush x:Key="AccentBrush" Color="#2DDB97"/>
+        <SolidColorBrush x:Key="AccentForegroundBrush" Color="#082118"/>
+        <SolidColorBrush x:Key="AccentSoftBrush" Color="#1C4738"/>
+        <SolidColorBrush x:Key="WarningBrush" Color="#F3C84B"/>
+    </Application.Resources>
+</Application>
